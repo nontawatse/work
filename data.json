@@ -1,0 +1,18 @@
+[{
+        "title": "Golden Retriever",
+        "subtitle": "สำหรับคนรักสุนัขทั้งหลายคงไม่มีใครไม่รู้จัก โกลเด้น รีทริฟเวอร์ (Golden Retriever) ด้วยขนาดตัวที่พอเหมาะ สายตาที่อ่อนโยน เป็นมิตร ร่าเริง ขนสีทองอร่าม และหางเป็นแพคล้ายขนนกที่แกว่งไปมาตลอดเวลา บทความนี้จะพามาทำความรู้จักกับสุนัขพันธุ์โกลเด้น รีทริฟเวอร์ในทุกแง่มุม ทั้งภาพรวมของสายพันธุ์ และเคล็ดลับในการดูแลสุขภาพ และกิจกรรมที่เหมาะสม",
+        "image": "https://images.unsplash.com/photo-1625794084867-8ddd239946b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "detail": "The Golden Retriever is a Scottish breed of retriever dog of medium size. It is characterised by a gentle and affectionate nature and a striking golden coat. It is commonly kept as a pet and is among the most frequently registered breeds in several Western countries. It is a frequent competitor in dog shows and obedience trials; it is also used as a gundog, and may be trained for use as a guide dog."
+    },
+    {
+        "title": "Siberian Husky",
+        "subtitle": "สุนัขไซบีเรียน ฮัสกี (Siberian Husky) เป็นหนึ่งในสายพันธุ์สุนัขที่มีความสง่างาม ด้วยรูปลักษณ์ภายนอกและบุคลิกที่ดูนิ่ง แต่ก็กระฉับกระเฉง และมีพลังที่ล้นเหลือ และด้วยคุณสมบัติเหล่านี้ บ่อยครั้งจึงเลี่ยงไม่ได้ที่สุนัขพันธุ์นี้จะมีความผิดปกติในเรื่องข้อต่อ เช่น ข้อสะโพกเคลื่อน และปัญหาโรคผิวหนังตามมา บทความนี้จะพามาทำความรู้จักกับสุนัขพันธุ์ไซบีเรียน ฮัสกีในทุกแง่มุม ทั้งภาพรวมของสายพันธุ์ ปัญหาและเคล็ดลับในการดูแลสุขภาพ และกิจกรรมที่เหมาะสม",
+        "image": "https://images.unsplash.com/photo-1588960406636-4bbb2ae758f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+        "detail": "The Siberian Husky is a medium-sized working sled dog breed. The breed belongs to the Spitz genetic family. It is recognizable by its thickly furred double coat, erect triangular ears, and distinctive markings, and is smaller than the similar-looking Alaskan Malamute."
+    }, {
+        "title": "Shiba Inu",
+        "subtitle": "ชิบะอินุเป็นสุนัขพันธุ์ดั้งเดิมของญี่ปุ่นที่มีขนาดเล็กที่สุด เป็นสุนัขในตระกูลเดียวกันกับพันธุ์อะคิตะ (Akita) รูปร่างกระทัดรัด หูตั้ง กล้ามเนื้อกระชับ ขนสั้น 2 ชั้น มีทั้งสีดำผสมสีน้ำตาล สีแดง หรือ สีงาแดง ดวงตาสดใสและรูปริมฝีปากโค้งเหมือนกับกำลังยิ้ม ชิบะอินุ เป็นสุนัขอารมณ์ดี เป็นมิตร ตื่นตัว ฉลาดหลักแหลม  มีอายุเฉลี่ยประมาณ 12-15 ปี แต่มีสายพันธุ์ ชิบะ ปูสุเกะ (Shiba Pusuke) ซึ่งได้รับการออกกำลังอย่างเป็นกระจำจนร่างกายแข็งแรง สามารถอยู่ได้ยืนยาวถึง 26 ปี",
+        "image": "https://images.unsplash.com/photo-1611610436339-496cfcf1c51f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fHNoaWJhJTIwaW51fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "detail": "The Shiba Inu (柴犬, Japanese: [ɕiba inɯ]) is a breed of hunting dog from Japan. A small-to-medium breed, it is the smallest of the six original and distinct spitz breeds of dog native to Japan.[1] Its name literally translates to 'brushwood dog', as it is used to flush game."
+    }
+]
